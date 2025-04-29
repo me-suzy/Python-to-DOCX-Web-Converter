@@ -34,7 +34,7 @@ python-docx
    ```
    python app.py
    ```
-4. Accesați aplicația în browser la adresa: http://127.0.0.1:5001
+4. Accesați aplicația în browser la adresa: http://127.0.0.1:5001  sau, alternativa, http://127.0.0.1:5000
 
 ## Structura proiectului
 - `app.py` - Serverul Flask care gestionează rutele și execuția codului Python
